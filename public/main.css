@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.MuiTabs-centered {
+    justify-content: start !important;
+}
+
+.new-message-input-field > .MuiOutlinedInput-multiline {
+    border-radius: 30px !important;
+}
